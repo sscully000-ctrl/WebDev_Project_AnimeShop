@@ -1,8 +1,9 @@
 body{
-    background-color:darkgray;
+    background-color:rgb(62, 69, 93);
 }
 
 h1 {
     color:aliceblue ;
+    font-family:'Courier New', Courier, monospace;
 
 }
