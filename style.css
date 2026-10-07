@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(57, 73, 127);
+    background-color:rgb(18, 84, 112);
 }
 
 h1 {
@@ -8,6 +8,20 @@ h1 {
 
 }
 
-.popular{
-    background-color:cornflowerblue;
+header{
+    text-align:center;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    color:aliceblue ;
+    background-color:rgb(2, 101, 101);
+}
+
+nav{
+    background-color:rgb(2, 101, 101);
+}
+
+p{
+    color:aliceblue;
+    background-color:rgb(14, 57, 75);
+    font-family:'Courier New', Courier, monospace;
 }
