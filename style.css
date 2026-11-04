@@ -30,7 +30,7 @@ p{
 }
 
 #title{
-    position: fixed;
+    position:static;
     background-color: rgb(8, 173, 191);
 
 }
