@@ -5,9 +5,15 @@ body{
 h1 {
     color:aliceblue ;
     font-family:'Courier New', Courier, monospace;
+    width: 20px;
 
 }
-
+@media screen and (orientation: portrait){
+    
+}
+@media screen and (orientation: landscape) {
+    
+}
 header{
     text-align:center;
     font-size: 40px;
