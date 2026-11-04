@@ -18,6 +18,7 @@ header{
 
 nav{
     background-color:rgb(2, 101, 101);
+    position: relative;
 }
 
 p{
