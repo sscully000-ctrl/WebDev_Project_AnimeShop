@@ -5,16 +5,9 @@ body{
 h1 {
     color:aliceblue ;
     font-family:'Courier New', Courier, monospace;
-    width: 20px;
 
 }
-/*
-@media screen and (orientation: portrait){
-    
-}
-@media screen and (orientation: landscape) {
-    
-}*/
+
 header{
     text-align:center;
     font-size: 40px;
@@ -32,4 +25,9 @@ p{
     color:aliceblue;
     background-color:rgb(14, 57, 75);
     font-family:'Courier New', Courier, monospace;
+}
+
+#title{
+    position: sticky;
+
 }
