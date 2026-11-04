@@ -28,7 +28,7 @@ p{
     font-family:'Courier New', Courier, monospace;
 }
 
-.title{
+#title{
     position: sticky;
     background-color: black;
 
