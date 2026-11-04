@@ -20,6 +20,7 @@ nav{
     background-color:rgb(2, 101, 101);
     position: sticky;
     top: 0;
+    border: 5px double mediumseagreen
 }
 
 p{
@@ -29,7 +30,7 @@ p{
 }
 
 #title{
-    position: sticky;
-    background-color: black;
+    position: fixed;
+    background-color: rgb(8, 173, 191);
 
 }
