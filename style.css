@@ -39,7 +39,12 @@ p{
 
 }
 
-a{
+a:link{
     color:burlywood;
+
+}
+
+a:visited{
+    color:beige;
 
 }
