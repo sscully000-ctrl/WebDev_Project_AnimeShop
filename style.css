@@ -49,22 +49,41 @@ a:visited{
 
 }
 
-@media only screen and (max-width: 600px) {
+@media (max-width: 480px) {
 
-    body{
-        
-        width: 150%;
-        height: 150%;
-        
+  .container {
+    width: min(100% - 1.25rem, 1100px);
+    padding: 1.25rem 0;
+  }
+
+@media screen and (min-width: 481px) and (max-width: 1024px) {
+
+    header {
+        font-size: 32px;
+    }
+
+    nav {
+        padding: 15px;
+    }
+
+    nav a {
+        padding: 10px 25px;
+        font-size: 18px;
+    }
+
+    #popular img {
+        width: 45%;
+        height: 200px;
+        object-fit: cover;
+        margin: 10px;
+    }
+
+    #popular p {
+        font-size: 22px;
     }
 
 
-}
+@media only screen and (min-width: 1025px) {
 
-@media only screen and (min-width: 768px) {
-
-}
-
-@media only screen and (min-width: 992px) {
-
+    
 }
